@@ -1,0 +1,27 @@
+.contenedor {
+    display: flex;
+
+}
+
+.imagenes{
+    position: absolute;
+width: 373.16px;
+height: 323.7px;
+left: 215px;
+top: 1092.3px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+
+.parrafos{
+    display: flex;
+
+}
+
+.pf-1{
+    margin-right: 15px;
+}
